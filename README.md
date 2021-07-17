@@ -1,4 +1,6 @@
-- Profile : [USAMI Kosuke](https://usami-k.github.io)
+## Profile Page
+
+- [USAMI Kosuke](https://usami-k.github.io)
 
 ## Programming
 
